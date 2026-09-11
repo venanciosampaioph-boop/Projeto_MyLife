@@ -1,3 +1,6 @@
+# Projeto MyLife - Gerenciador de Tarefas
+
+
 tarefas = []
 print("===============================")
 print("            MyLife")
@@ -32,7 +35,6 @@ while True:
 
             print("Tarefa concluída com sucesso:", tarefa_concluida)
         
-      
        
 
 
