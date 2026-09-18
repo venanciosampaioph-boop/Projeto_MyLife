@@ -7,9 +7,13 @@ O MyLife é um projeto simples desenvolvido em Python para ajudar no controle de
 *O programa funciona pelo terminal e permite:*
 
 *Listar tarefas
+
 *Concluir tarefas
+
 *Remover tarefas
+
 *Encerrar o programa
+
 *As tarefas são armazenadas em uma lista enquanto o programa está sendo executado.
 
 *Tecnologias*
